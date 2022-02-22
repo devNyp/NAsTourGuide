@@ -1,0 +1,20 @@
+@charset "UTF-8";
+#div-nasfv01-03, .div-nasfv01-03{
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+.div-nasfv01-04{
+	width: 260px;
+	height: 370px;
+	margin: 10px auto;
+
+	text-align: center;
+}
+.fvThumNail{
+	width: 260px;
+	height: 270px;
+}
+.fvThumNail2{
+	width: 330px;
+	height: 360px;
+}
